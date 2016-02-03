@@ -120,9 +120,7 @@ $array = array_unique($array);
 		    }
 	}
 }
-	foreach($recipient_emails as $recipient_email){
-	    
-    }
+
 
 
 
